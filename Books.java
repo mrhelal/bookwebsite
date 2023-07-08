@@ -13,7 +13,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author shrabon
+ * @author mrhelal
  */
 public class Books extends javax.swing.JFrame {
 
